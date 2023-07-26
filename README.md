@@ -27,4 +27,4 @@ Además se incluyen *Google Fonts*.
 ## Contacto
 
 Desarrollado por:  en Tecnolochicas PRO Summer Camp.
-[Shair Becerra].
+[Shair Becerra](https://singular-twilight-ef9c35.netlify.app/).
