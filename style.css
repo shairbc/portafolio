@@ -1,5 +1,7 @@
 body{
-    background: linear-gradient(70deg, blue, pink);
+    background-image: url(https://png.pngtree.com/background/20220714/original/pngtree-computer-technology-pictures-picture-image_1622224.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 #img-perfil{
     width: 150px;
@@ -20,7 +22,7 @@ body{
 }
 
 .nav-link{
-    color: #000000!important;
+    color: #f8f7f7!important;
 }
 
 .text-bg-primary {
