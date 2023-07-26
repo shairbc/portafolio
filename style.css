@@ -1,0 +1,92 @@
+body{
+    background: linear-gradient(70deg, blue, pink);
+}
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 200px;
+}
+
+.bg-primary{
+    background-color: #E280ff !important;
+}
+.btn-primary{
+    background-color: #E280ff !important;
+}
+.btn-primary2{
+    background-color: hsl(286, 70%, 65%) !important;
+}
+
+.nav-link{
+    color: #000000!important;
+}
+
+.text-bg-primary {
+    background-color: #9F44D3!important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+
+#proyecto-1{
+    background-image: url('img/página.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('img/Clon-de-google.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-4{
+    background-image: url('img/Servicios-generales.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-5{
+    background-image: url('img/SISMACO.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-6{
+    background-image: url('img/Inicio.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+.icono{
+    width: 50px;
+}
+.icono {
+    font-size: 2rem;
+    color: white;
+    margin: 12px;
+}
